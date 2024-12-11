@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
 		}
 	}
 
-	printf("msg len = %d\n", msg_len);
+	// printf("msg len = %d\n", msg_len);
 	u32 printed_count = 0;
 
 	for (u32 r = pattern_row+2; r < header->height; ++r) {
