@@ -191,22 +191,18 @@ int main(int argc, char** argv) {
 			u8 green = file_content.data[curr_px_idx + 1];
 			u8 red   = file_content.data[curr_px_idx + 2];
 
-			if (printed_count >= msg_len) {
-				exit(0);
-			}
-
-			
-
 			printf("%c", blue);
 			printed_count += 1;
 			if (printed_count >= msg_len) {
 				exit(0);
 			}
+			
 			printf("%c", green);
 			printed_count += 1;
 			if (printed_count >= msg_len) {
 				exit(0);
 			}
+
 			printf("%c", red);
 			printed_count += 1;
 			if (printed_count >= msg_len) {
