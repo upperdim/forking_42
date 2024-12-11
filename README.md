@@ -4,6 +4,7 @@ You will get all the necessary information about the 42 Hackersprint in this rep
 
 [subject and test images](https://www.playbook.com/s/tsang-hei-yiu/tmrkRMYXfAk4ptrsvL6xQndj)
 
+Enter the link of your forked repo into the form below
 [register form](https://forms.office.com/e/FyJXww3k9r)
 
 # Example of using SIMD
